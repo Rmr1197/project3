@@ -39,13 +39,14 @@ c. Map the earthquakes in April 2015. Where are those earthquakes mostly located
 		
 ### 11) Questions
 		
-a) 
+a) The map we were instructed to narrow in on is the region of the Northeast Pacific Ocean, and Pacific Northwest land region. This area is home to the Juan de Fuca plate. According the PNSN, "The Juan de Fuca Plate is still actively subducting beneath N. America." This subduction can cause lots of earthquakes in this region, as shown by Figure 2.
 
-b) 
+b) In the plotting time vs magnitude section, the average, minimum, maximum, and range values were determined for the data set. We must also remember that this data only includes earthquakes above 2.5 magnitude. The average magnitude for the set was 3.2, the minimum was 2.5, the maximum was 7.8, and the range was 5.3.
 
 c) 
 
 ## References
 
-National Geographic Society, “wind,” National Geographic Society, 13-Nov-2012. [Online]. Available: https://www.nationalgeographic.org/encyclopedia/wind/. [Accessed: 20-Feb-2020].
+Latest Earthquakes. [Online]. Available: https://earthquake.usgs.gov/earthquakes/map/. [Accessed: 02-Mar-2020].
 
+“Plate Tectonics,” Pacific Northwest Seismic Network. [Online]. Available: https://pnsn.org/outreach/about-earthquakes/plate-tectonics. [Accessed: 02-Mar-2020].
