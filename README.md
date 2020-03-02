@@ -33,7 +33,7 @@ c. Map the earthquakes in April 2015. Where are those earthquakes mostly located
 
 ### 10) Earthquake Locations
 
-<img src="https://github.com/Rmr1197/project3/blob/master/Images/2.PNG" height="250" width="350">
+<img src="https://github.com/Rmr1197/project3/blob/master/Images/2.PNG" height="350" width="350">
 
 		Figure 2: Locations of earthquakes and their relative magnitude that dictates circle size
 		
