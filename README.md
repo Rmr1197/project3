@@ -8,7 +8,7 @@ https://github.com/Rmr1197/project3/blob/master/Project%203%20Code.ipynb
 
 ## Problem Statement
 
-We are to answer questions that involve earthquake behavior in the Northeast Pacitic
+We are to answer questions that involve earthquake behavior in the Northeast Pacific
 
 9) Plot (scatter plot) earthquake magnitude vs time. 
 
