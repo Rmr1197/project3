@@ -64,24 +64,25 @@ Below are the areas of divergent and transform boundaries that I selected for my
 
 		Figure 5: Locations of divergent and transform plate boundaries
 
-### 9) Earthquake Magnitude vs time
+### Earthquake Magnitude vs time - Divergent Boundary
 
 <img src="https://github.com/Rmr1197/project3/blob/master/Images/3.PNG" height="250" width="350">
 
 		Figure 6: Earthquake magnitude vs time of the year
 
+### Earthquake Locations - Divergent Boundary
 
 <img src="https://github.com/Rmr1197/project3/blob/master/Images/4.PNG" height="700" width="700">
 
 		Figure 7: Locations of earthquakes and their relative magnitude that dictates circle size
 
-### 9) Earthquake Magnitude vs time
+### Earthquake Magnitude vs time - Transform Boundaries
 
 <img src="https://github.com/Rmr1197/project3/blob/master/Images/5.PNG" height="250" width="350">
 
 		Figure 8: Earthquake magnitude vs time of the year
 
-### Earthquake Locations - Transform Boundaries
+### Earthquake Locations - Transform Boundary
 
 <img src="https://github.com/Rmr1197/project3/blob/master/Images/6.PNG" height="700" width="700">
 
