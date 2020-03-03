@@ -46,11 +46,11 @@ b) In the plotting time vs magnitude section, the average, minimum, maximum, and
 
 c) Below are the time vs magnitude graph and location of earthquakes in April 2015
 
-<img src="https://github.com/Rmr1197/project3/blob/master/Images/7.PNG" height="350" width="350">
+<img src="https://github.com/Rmr1197/project3/blob/master/Images/7.PNG" height="250" width="350">
 
 		Figure 3: Earthquake magnitude vs time of the year
 
-<img src="https://github.com/Rmr1197/project3/blob/master/Images/8.PNG" height="350" width="350">
+<img src="https://github.com/Rmr1197/project3/blob/master/Images/8.PNG" height="700" width="700">
 
 		Figure 4: Locations of earthquakes and their relative magnitude that dictates circle size
 		
@@ -60,30 +60,30 @@ c) Below are the time vs magnitude graph and location of earthquakes in April 20
 
 Below are the areas of divergent and transform boundaries that I selected for my analysis:
 
-<img src="https://github.com/Rmr1197/project3/blob/master/Images/3.PNG" height="350" width="350">
+<img src="https://github.com/Rmr1197/project3/blob/master/Images/3.PNG" height="700" width="700">
 
 		Figure 5: Locations of divergent and transform plate boundaries
 
 ### 9) Earthquake Magnitude vs time
 
-<img src="https://github.com/Rmr1197/project3/blob/master/Images/4.PNG" height="350" width="350">
+<img src="https://github.com/Rmr1197/project3/blob/master/Images/4.PNG" height="250" width="350">
 
 		Figure 6: Earthquake magnitude vs time of the year
 
 
-<img src="https://github.com/Rmr1197/project3/blob/master/Images/5.PNG" height="350" width="350">
+<img src="https://github.com/Rmr1197/project3/blob/master/Images/5.PNG" height="700" width="700">
 
 		Figure 7: Locations of earthquakes and their relative magnitude that dictates circle size
 
 ### 9) Earthquake Magnitude vs time
 
-<img src="https://github.com/Rmr1197/project3/blob/master/Images/6.PNG" height="350" width="350">
+<img src="https://github.com/Rmr1197/project3/blob/master/Images/6.PNG" height="250" width="350">
 
 		Figure 8: Earthquake magnitude vs time of the year
 
 ### Earthquake Locations - Transform Boundaries
 
-<img src="https://github.com/Rmr1197/project3/blob/master/Images/7.PNG" height="350" width="350">
+<img src="https://github.com/Rmr1197/project3/blob/master/Images/7.PNG" height="700" width="700">
 
 		Figure 9: Locations of earthquakes and their relative magnitude that dictates circle size
 
