@@ -22,9 +22,7 @@ b. What is the range of earthquake size (magnitude) in these data? What is the a
 
 c. Map the earthquakes in April 2015. Where are those earthquakes mostly located? What event can you link these earthquakes to?
 
-## Solution
-
-## Part 1
+## Solution - Part 1
 
 ### 9) Earthquake Magnitude vs time
 
@@ -54,7 +52,7 @@ c) Below are the time vs magnitude graph and location of earthquakes in April 20
 
 		Figure 4: Locations of earthquakes and their relative magnitude that dictates circle size
 		
-## Part 2
+## Solution - Part 2
 
 ### Identifying locations of divergent and transform boundaries
 
