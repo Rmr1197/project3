@@ -50,6 +50,8 @@ c) Below are the time vs magnitude graph and location of earthquakes in April 20
 
 		Figure 3: Earthquake magnitude vs time of the year
 
+### Earthquakes Taking Place in April 2015
+
 <img src="https://github.com/Rmr1197/project3/blob/master/Images/8.PNG" height="700" width="700">
 
 		Figure 4: Locations of earthquakes and their relative magnitude that dictates circle size
