@@ -60,7 +60,7 @@ c) Below are the time vs magnitude graph and location of earthquakes in April 20
 
 Below are the areas of divergent and transform boundaries that I selected for my analysis:
 
-<img src="https://github.com/Rmr1197/project3/blob/master/Images/map.PNG" height="700" width="700">
+<img src="https://github.com/Rmr1197/project3/blob/master/Images/map.png" height="700" width="700">
 
 		Figure 5: Locations of divergent and transform plate boundaries
 
