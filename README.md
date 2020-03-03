@@ -25,6 +25,8 @@ c. Map the earthquakes in April 2015. Where are those earthquakes mostly located
 	
 ## Solution
 
+##Part 1
+
 ### 9) Earthquake Magnitude vs time
 
 <img src="https://github.com/Rmr1197/project3/blob/master/Images/1.PNG" height="250" width="350">
@@ -43,7 +45,43 @@ a) The map we were instructed to narrow in on is the region of the Northeast Pac
 
 b) In the plotting time vs magnitude section, the average, minimum, maximum, and range values were determined for the data set. We must also remember that this data only includes earthquakes above 2.5 magnitude. The average magnitude for the set was 3.2, the minimum was 2.5, the maximum was 7.8, and the range was 5.3.
 
-c) 
+c) Below are the time vs magnitude graph and location of earthquakes in April 2015
+
+<img src="https://github.com/Rmr1197/project3/blob/master/Images/7.PNG" height="350" width="350">
+
+		Figure 3: Locations of earthquakes and their relative magnitude that dictates circle size
+
+<img src="https://github.com/Rmr1197/project3/blob/master/Images/8.PNG" height="350" width="350">
+
+		Figure 4: Locations of earthquakes and their relative magnitude that dictates circle size
+		
+## Part 2
+
+Below are the areas of divergent and transform boundaries that I selected for my analysis
+
+<img src="https://github.com/Rmr1197/project3/blob/master/Images/3.PNG" height="350" width="350">
+
+		Figure 5: Locations of earthquakes and their relative magnitude that dictates circle size
+
+<img src="https://github.com/Rmr1197/project3/blob/master/Images/4.PNG" height="350" width="350">
+
+		Figure 6: Locations of earthquakes and their relative magnitude that dictates circle size
+
+
+<img src="https://github.com/Rmr1197/project3/blob/master/Images/5.PNG" height="350" width="350">
+
+		Figure 7: Locations of earthquakes and their relative magnitude that dictates circle size
+
+
+<img src="https://github.com/Rmr1197/project3/blob/master/Images/6.PNG" height="350" width="350">
+
+		Figure 8: Locations of earthquakes and their relative magnitude that dictates circle size
+
+
+<img src="https://github.com/Rmr1197/project3/blob/master/Images/map.PNG" height="350" width="350">
+
+		Figure 9: Locations of earthquakes and their relative magnitude that dictates circle size
+
 
 ## References
 
