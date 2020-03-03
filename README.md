@@ -1,6 +1,8 @@
 # Project 3: Plate Tectonics Assignment
 Robert Reiten 
-1 March 2020 Plate Tectonics
+
+1 March 2020
+
 Plate Tectonics
 
 Code Link
