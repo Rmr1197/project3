@@ -87,7 +87,6 @@ Below are the areas of divergent and transform boundaries that I selected for my
 
 		Figure 9: Locations of earthquakes and their relative magnitude that dictates circle size
 
-
 ## References
 
 Latest Earthquakes. [Online]. Available: https://earthquake.usgs.gov/earthquakes/map/. [Accessed: 02-Mar-2020].
