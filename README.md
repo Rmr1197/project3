@@ -52,6 +52,8 @@ c) Below are the time vs magnitude graph and location of earthquakes in April 20
 
 		Figure 4: Locations of earthquakes and their relative magnitude that dictates circle size
 		
+Here we can see that there are a number of earthquakes occurring along the lower divergent boundary and along the transform boundary. The majority of earthquakes in this month happened on day 24, counting around 12 total. According to a write up found on AGU Journals, it was stated that the 24th of April was the beginning of an eruption of the Axial Seamount location. These explosive events lasted until May. After the initial explosion, water temperatures in the area rose and maintained constant for around a week. 
+
 ## Solution - Part 2
 
 ### Identifying locations of divergent and transform boundaries
@@ -91,3 +93,5 @@ Below are the areas of divergent and transform boundaries that I selected for my
 Latest Earthquakes. [Online]. Available: https://earthquake.usgs.gov/earthquakes/map/. [Accessed: 02-Mar-2020].
 
 “Plate Tectonics,” Pacific Northwest Seismic Network. [Online]. Available: https://pnsn.org/outreach/about-earthquakes/plate-tectonics. [Accessed: 02-Mar-2020].
+
+R. P. Dziak, J. Haxel, D. R. Bohnenstiehl, and C. Garcia, “Explosive processes during the 2015 eruption of Axial Seamount, as recorded by seafloor hydrophones,” AGU Journals, 26-Apr-2017. [Online]. Available: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GC006734. [Accessed: 03-Mar-2020].
