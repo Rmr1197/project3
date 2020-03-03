@@ -80,7 +80,7 @@ Below are the areas of divergent and transform boundaries that I selected for my
 
 		Figure 7: Locations of earthquakes and their relative magnitude that dictates circle size
 
-### Earthquake Magnitude vs time - Transform Boundaries
+### Earthquake Magnitude vs time - Transform Boundary
 
 <img src="https://github.com/Rmr1197/project3/blob/master/Images/5.PNG" height="250" width="350">
 
