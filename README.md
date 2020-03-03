@@ -92,7 +92,7 @@ Below are the areas of divergent and transform boundaries that I selected for my
 
 		Figure 9: Locations of earthquakes and their relative magnitude that dictates circle size
 
-d) Along the divergent plate boundaries we notice lower magnitude earthquakes. According to CUNY.edu this is because these divergent boundaries have more shallow siesmic activity. In an image on the site it is observed that only the lithosphere and crust move away from each other, while the asthenosphere remains dormant beneath. Less land mass moving would mean less energy released, resulting in less powerful earthquakes. Along the transform plate boundaries we notice higher magnitude and frequency of earthquake. According to the same source, it states that these boundaries are also shallow but involve very powerful earthquake responses. This may be due to the rubbing of landmass together, causing a higher amount of energy to be stored and released at a given time.
+d) Along the divergent plate boundaries we notice lower magnitude earthquakes. According to cuny.edu this is because these divergent boundaries have more shallow siesmic activity. In an image on the site it is observed that only the lithosphere and crust move away from each other, while the asthenosphere remains dormant beneath. Less land mass moving would mean less energy released, resulting in less powerful earthquakes. Along the transform plate boundaries we notice higher magnitude and frequency of earthquake. According to the same source, it states that these boundaries are also shallow but involve very powerful earthquake responses. This may be due to the rubbing of landmass together, causing a higher amount of energy to be stored and released at a given time.
 
 ## References
 
